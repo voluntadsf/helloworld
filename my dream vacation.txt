@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+<style>
+body {
+  background-image: url('https://thumbs.gfycat.com/RecklessCreepyBlackcrappie-size_restricted.gif');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+</style>
+
+<body>
+
+<head>
+<h1 style="background-color:Orange;">My Dream Vacation </h1>
+</head>
+<body>
+
+
+<center><img src="https://ohfact.com/wp-content/uploads/2018/09/Japan.gif" alt="christina-brooke.com" style="width:800px;height:200px;"></center>
+ 
+<CENTER><h2 style="background-color:Yellow;">WHY JAPAN???</h2></CENTER>
+
+<center><img src="https://images.squarespace-cdn.com/content/v1/5840c029f5e231d6e255c942/1519183785689-P1ZBLTOX5Z90678FX73G/ke17ZwdGBToddI8pDm48kK2t76eTHxLtmH5YQdX4mmBZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVGpSYtFfwQWKNIc1J_-w-dNNQUf06rXCS-F7VSOsQOxOu87Nsj43NRAr6WuWZv5DKs/giphy+%281%29.gif" alt="christina-brooke.com" style="width:800px;height:500px;"></center>
+
+
+<CENTER><h2 style="background-color:Yellow;">A destination praised and adored by countless travellers; Japan continues to engage and delight visitors with unmatched scenery, traditional experiences and delicious cuisines. </h2></CENTER>
+
+<h1 style="background-color:Orange;">MY THREE REASONS</h1>
+
+<CENTER><h2 style="background-color:Yellow;">1. Delicious Food</h2></CENTER>
+
+<center><img src="https://66.media.tumblr.com/ca9b26eafcce0bd929ab86ea57d40ded/tumblr_p5nz9zdR131sdpzobo1_400.gif" alt="christina-brooke.com" style="width:800px;height:500px;"></center>
+
+<CENTER><h2 style="background-color:Yellow;">Home to a range of delightful foods and treats, pleasing every sense from sight to smell; Japan contains an extensive range of flavours to discover. High upon most Japan bucket lists is the chance to eat sushi in Tokyo. Across the city, an array of charming restaurants can be uncovered, that prepare guests fresh, quality sushi, unlike anything ever experienced.
+
+Some other traditional dishes to try when visiting include tempura, miso soup and sashimi. Tasting the cuisine of Japan is essentially an experience within itself. Expand the palate and indulge in some of Japans delicious, traditional foods. </h2></CENTER>
+
+<CENTER><h2 style="background-color:Yellow;">2. Beautiful Landscapes</h2></CENTER>
+
+<center><img src="https://www.glos.ac.uk/study/international/in-your-region/PublishingImages/landscapes/Japan.gif" alt="christina-brooke.com" style="width:800px;height:500px;"></center>
+
+<CENTER><h2 style="background-color:Yellow;">Japan holds within it a diverse range of peaceful, flourished landscapes, waiting to be explored. A vast collection of fully guided day trips are available to travellers wanting to venture out of the city limits. Spots such as Nikko, Japan’s city in the mountains, offers beautiful waterfalls, mountains engulfed in greenery and crystal, vibrant lakes.
+
+On the other hand, trekking towards the Fuji district can deliver sweeping, wide open views of the towering and much-admired Mt Fuji. Some tours available can drive guests part way up the mountain, for an up-close view of the snowy peak, and far-reaching views of the countryside below.
+
+Within major cities, such as Tokyo, the distinct cityscape can be viewed from above via the cities observatories. The Tokyo Tower or the Skytree are perfect spots to escape the bustle of the city and enjoy the colourful scenery from above. </h2></CENTER>
+
+<CENTER><h2 style="background-color:Yellow;">3. Plenty to see</h2></CENTER>
+
+<center><img src="https://i.makeagif.com/media/4-23-2017/Mkr653.gif" alt="christina-brooke.com" style="width:800px;height:500px;"></center>
+
+<CENTER><h2 style="background-color:Yellow;">There are countless attractions and experiences waiting to be enjoyed in Japan. Different cities and smaller towns can offer visitors a diverse range of things to see and do. The major population hubs can offer visitors a lot, but it can often be worth taking the time and venturing out of the cities and discovering something new.
+
+Walk through bamboo forests, respectfully participate in temple rituals, ramble amongst busy markets, interact with bowing deer and playful monkeys, enjoy thrilling theme parks and plot through untouched landscapes. Create and cherish many unforgettable memories through an action-packed trip to Japan. </h2></CENTER>
+
+<CENTER><h3 style="background-color:Red;">Edited by Ms.Sherlene Voluntad</h3></CENTER>
+
+</body>
+</html>
